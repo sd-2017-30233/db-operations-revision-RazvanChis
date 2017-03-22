@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CourseQueryTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-03-12T19:08:27" hostname="DESKTOP-52U5V8B" time="1.566">
+  <properties/>
+  <testcase name="testUpdateCourse" classname="CourseQueryTests" time="0.269"/>
+  <testcase name="testDeleteCourse" classname="CourseQueryTests" time="0.232"/>
+  <testcase name="testAddCourse" classname="CourseQueryTests" time="0.201"/>
+  <testcase name="testUpdateCourse" classname="CourseQueryTests" time="0.084"/>
+  <testcase name="testDeleteCourse" classname="CourseQueryTests" time="0.097"/>
+  <testcase name="testAddCourse" classname="CourseQueryTests" time="0.098"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Mar 12, 2017 9:08:27 PM org.springframework.context.support.ClassPathXmlApplicationContext prepareRefresh
+INFO: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@68546086: startup date [Sun Mar 12 21:08:27 EET 2017]; root of context hierarchy
+Mar 12, 2017 9:08:27 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from class path resource [beans.xml]
+Mar 12, 2017 9:08:27 PM org.springframework.jdbc.datasource.DriverManagerDataSource setDriverClassName
+INFO: Loaded JDBC driver: com.mysql.jdbc.Driver
+]]></system-err>
+</testsuite>
